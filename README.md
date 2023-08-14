@@ -5,6 +5,9 @@
 This public repository contains the training materials, tutorials, lecture noteds, and code for the
 DSE2023 summer school and conference, held at the Department of Economics, University of Lausanne, Switzerland from August 21-26th, 2023.
 
+**Anyone is free to use this teaching material. In the latter case, a reference to this repository would however would be expected**
+
+
 * [Website of DSE 2023](https://dseconf.org/dse2023)
 
 Materials will be added to the repository throughout the course, which will require that students either update their copy of the repository, or download/checkout a new copy of the repository.
@@ -85,9 +88,6 @@ The tentative schedule for the DSE2023 conference can be found [here](https://ds
 * Basic programming in Python (see [this link](https://python-programming.quantecon.org/intro.html) for a thorough introduction)
 * Basic calculus and probability ([Mathematics for Machine learning](https://mml-book.github.io/) provides a good overview of skills participants are required to be fluent in).
 * Basic econometrics
-
-
-**Anyone is free to use this teaching material. In the latter case, a reference to this repository would however would be expected**
 
 
 ### Location of the Summer School and Conference
