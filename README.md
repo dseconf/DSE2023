@@ -88,3 +88,29 @@ The tentative schedule for the DSE2023 conference can be found [here](https://ds
 
 
 **Anyone is free to use this teaching material. In the latter case, a reference to this repository would however would be expected**
+
+
+### Location of the Summer School and Conference
+
+DSE2023 will take place at the University of Lausanne, in the building called *Anthropole*.
+
+* You can find all plans of the University bulidings [here](https://planete.unil.ch/plan).
+
+* This is the Anthropole building:
+
+<p align="center">
+<img src="screens/Anthropole_1.png" width="800px"/>
+</p>
+
+* The **summer school** takes place in Anthropole room 2064 (marked with a red circle).
+
+<p align="center">
+<img src="screens/Anthropole_2.png" width="800px"/>
+</p>
+
+* The **conference** takes place in Anthropole room 1129 (marked with a red circle).
+
+<p align="center">
+<img src="screens/Anthropole_3.png" width="800px"/>
+</p>
+
