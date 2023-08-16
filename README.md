@@ -52,6 +52,9 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 ### Time table of the Summer School
 
+* Registration will take plance on Monday, August 21st, from 8:30-9:00 am at Anthropole, room Anthropole 2064.
+
+
 **Lecture** | **Date** | **Time** | **Topic** | **Lecturer**
 -----|-----|------|------|------
 01   | 08.21.2023 | 09:00 - 10:20 | [Introduction to dynamic structural econometrics](01_Rust) | Rust
@@ -80,7 +83,9 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 ### Time table of the Conference (August 24 and 25th, 2023)
 
-The tentative schedule for the DSE2023 conference can be found [here](https://dseconf.org/dse2023conf).
+* The tentative schedule for the DSE2023 conference can be found [here](https://dseconf.org/dse2023conf).
+* Registration will be in front of Anthropole, room 1129.
+* Coffe breaks will be in front of Anthropole, room 1031.
 
 
 ### Prerequisites
