@@ -54,6 +54,8 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 * Registration will take plance on Monday, August 21st, from 8:30-9:00 am at Anthropole, room Anthropole 2064.
 
+* For the Pizza and coding event that takes place on Wednesday, August 23rd, please fill out [this form](https://docs.google.com/spreadsheets/d/1Xz_511rzqZnbxzwxen9iHEK_ZstVV__d5--SpkwB40s/edit#gid=0) no later than Monday, August 21st.
+
 
 **Lecture** | **Date** | **Time** | **Topic** | **Lecturer**
 -----|-----|------|------|------
