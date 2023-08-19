@@ -2,7 +2,7 @@
 
 ## Topic: Deep Learning for Solving and Estimating Dynamic Models
 
-This public repository contains the training materials, tutorials, lecture noteds, and code for the
+This public repository contains the training materials, tutorials, lecture notes, and code for the
 DSE2023 summer school and conference, held at the Department of Economics, University of Lausanne, Switzerland from August 21-26th, 2023.
 
 **Anyone is free to use this teaching material. In the latter case, a reference to this repository would however would be expected**
@@ -52,6 +52,11 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 ### Time table of the Summer School
 
+* Registration will take plance on Monday, August 21st, from 8:30-9:00 am at Anthropole, room Anthropole 2064.
+
+* For the Pizza and coding event that takes place on Wednesday, August 23rd, please fill out [this form](https://docs.google.com/spreadsheets/d/1Xz_511rzqZnbxzwxen9iHEK_ZstVV__d5--SpkwB40s/edit#gid=0) no later than Monday, August 21st.
+
+
 **Lecture** | **Date** | **Time** | **Topic** | **Lecturer**
 -----|-----|------|------|------
 01   | 08.21.2023 | 09:00 - 10:20 | [Introduction to dynamic structural econometrics](01_Rust) | Rust
@@ -60,7 +65,7 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 04   | 08.21.2023 | 14:30 - 15:50 | [Sturctual estimation of dynamic discrete choice models (MPEC and NFXP)](04_Schjerning) | Schjerning
 05   | 08.21.2023 | 16:00 - 17:20 | [Stationary and Nonstationary Equilibrium in Durable Goods Markets](05_Iskhakov_Rust_Schjerning) | Iskhakov, Rust, Schjerning
 06   | 08.22.2023 | 09:00 - 10:20 | [Deep Equilibrium Nets](06_Scheidegger) | Scheidegger
-07   | 08.22.2023 | 10:30 - 11:50 | [Deep Surrogates for Structural Estimation](07_Chen) | Chen
+07   | 08.22.2023 | 10:30 - 11:50 | [DeepHAM: A global solution method for heterogeneous agent models with aggregate shocks](07_Yang) | Yang
 08   | 08.22.2023 | 13:00 - 14:20 | [Deep Uncertainty Quantification: With an Application to Integrated Assessment Models](08_Kubler) | Kubler
 09   | 08.22.2023 | 14:30 - 15:50 | [Exploiting symmetry in high-dimensional DP models](09_Fernandez_Villaverde) | Fernandez-Villaverde
 10   | 08.22.2023 | 16:00 - 17:20 | [Using deep learning to solve heterogeneous agents dynamic equilibrium problems](10_Fernandez_Villaverde) | Fernandez-Villaverde
@@ -69,7 +74,7 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 13   | 08.23.2023 | 13:00 - 14:20 | [Machine Learning, CCPs, and Dynamic Discrete Choice](13_Newey) | Newey
 14   | 08.23.2023 | 14:30 - 15:50 | [Deep Learning for Individual Heterogeneity](14_Misra) | Misra
 15   | 08.23.2023 | 16:00 - 17:20 | [High-performance Computing with Python for Deep Learning](15_Sarmiento) | Sarmiento
-16   | 08.26.2023 | 09:00 - 10:20 | [DeepHAM: A global solution method for heterogeneous agent models with aggregate shocks](16_Yang) | Yang
+16   | 08.26.2023 | 09:00 - 10:20 | [Deep Surrogates for Structural Estimation](16_Chen) | Chen
 17   | 08.26.2023 | 10:30 - 11:50 | [Random Matrix Theory and Machine Learning in Asset Pricing](17_Malamud) | Malamud
 18   | 08.26.2023 | 13:00 - 14:20 | [Advances in dynamic programming: theory and algorithms](18_Stachurski) | Stachurski
 19   | 08.26.2023 | 14:30 - 15:50 | [Endogenous grid point methods and machine learning](19_Iskhakov) | Iskhakov
@@ -80,7 +85,11 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 ### Time table of the Conference (August 24 and 25th, 2023)
 
-The tentative schedule for the DSE2023 conference can be found [here](https://dseconf.org/dse2023conf).
+* The tentative schedule for the DSE2023 conference can be found [here](https://dseconf.org/dse2023conf).
+* Registration will be in front of Anthropole, room 1129.
+* Coffe breaks will be in front of Anthropole, room 1031.
+* Conference dinner will take place on August 24th, 18:30, at the [Restaurant du Theatre](https://www.restaurant-du-theatre.ch). Please fill out [this form](https://docs.google.com/spreadsheets/d/1orcnj4ibvyT-lkrby8sx7wYBufF0yOwmNaSx1DU2TYI/edit#gid=0) no later than Monday, August 21st, 2023, if you plan on attending.
+
 
 
 ### Prerequisites
