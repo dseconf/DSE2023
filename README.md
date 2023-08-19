@@ -2,7 +2,7 @@
 
 ## Topic: Deep Learning for Solving and Estimating Dynamic Models
 
-This public repository contains the training materials, tutorials, lecture noteds, and code for the
+This public repository contains the training materials, tutorials, lecture notes, and code for the
 DSE2023 summer school and conference, held at the Department of Economics, University of Lausanne, Switzerland from August 21-26th, 2023.
 
 **Anyone is free to use this teaching material. In the latter case, a reference to this repository would however would be expected**
