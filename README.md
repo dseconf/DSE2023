@@ -65,7 +65,7 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 04   | 08.21.2023 | 14:30 - 15:50 | [Sturctual estimation of dynamic discrete choice models (MPEC and NFXP)](04_Schjerning) | Schjerning
 05   | 08.21.2023 | 16:00 - 17:20 | [Stationary and Nonstationary Equilibrium in Durable Goods Markets](05_Iskhakov_Rust_Schjerning) | Iskhakov, Rust, Schjerning
 06   | 08.22.2023 | 09:00 - 10:20 | [Deep Equilibrium Nets](06_Scheidegger) | Scheidegger
-07   | 08.22.2023 | 10:30 - 11:50 | [Deep Surrogates for Structural Estimation](07_Chen) | Chen
+07   | 08.22.2023 | 10:30 - 11:50 | [DeepHAM: A global solution method for heterogeneous agent models with aggregate shocks](07_Yang) | Yang
 08   | 08.22.2023 | 13:00 - 14:20 | [Deep Uncertainty Quantification: With an Application to Integrated Assessment Models](08_Kubler) | Kubler
 09   | 08.22.2023 | 14:30 - 15:50 | [Exploiting symmetry in high-dimensional DP models](09_Fernandez_Villaverde) | Fernandez-Villaverde
 10   | 08.22.2023 | 16:00 - 17:20 | [Using deep learning to solve heterogeneous agents dynamic equilibrium problems](10_Fernandez_Villaverde) | Fernandez-Villaverde
@@ -74,7 +74,7 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 13   | 08.23.2023 | 13:00 - 14:20 | [Machine Learning, CCPs, and Dynamic Discrete Choice](13_Newey) | Newey
 14   | 08.23.2023 | 14:30 - 15:50 | [Deep Learning for Individual Heterogeneity](14_Misra) | Misra
 15   | 08.23.2023 | 16:00 - 17:20 | [High-performance Computing with Python for Deep Learning](15_Sarmiento) | Sarmiento
-16   | 08.26.2023 | 09:00 - 10:20 | [DeepHAM: A global solution method for heterogeneous agent models with aggregate shocks](16_Yang) | Yang
+16   | 08.26.2023 | 09:00 - 10:20 | [Deep Surrogates for Structural Estimation](16_Chen) | Chen
 17   | 08.26.2023 | 10:30 - 11:50 | [Random Matrix Theory and Machine Learning in Asset Pricing](17_Malamud) | Malamud
 18   | 08.26.2023 | 13:00 - 14:20 | [Advances in dynamic programming: theory and algorithms](18_Stachurski) | Stachurski
 19   | 08.26.2023 | 14:30 - 15:50 | [Endogenous grid point methods and machine learning](19_Iskhakov) | Iskhakov
