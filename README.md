@@ -61,8 +61,8 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 **Lecture** | **Date** | **Time** | **Topic** | **Lecturer**
 -----|-----|------|------|------
-01   | 08.21.2023 | 09:00 - 10:20 | [Introduction to dynamic structural econometrics](01_Rust) | Rust
-02   | 08.21.2023 | 10:30 - 11:50 | [Introduction to deep learning, Tensorflow and, Nuvolos cloud](02_Scheidegger) | Scheidegger
+01   | 08.21.2023 | 09:00 - 10:20 | [Introduction to deep learning, Tensorflow and, Nuvolos cloud](01_Scheidegger) | Scheidegger
+02   | 08.21.2023 | 10:30 - 11:50 | [Introduction to dynamic structural econometrics](02_Rust) | Rust
 03   | 08.21.2023 | 13:00 - 14:20 | [Numerical Dynamic Programing / best practices in Python](03_Stachurski) | Stachurski
 04   | 08.21.2023 | 14:30 - 15:50 | [Sturctual estimation of dynamic discrete choice models (MPEC and NFXP)](04_Schjerning) | Schjerning
 05   | 08.21.2023 | 16:00 - 17:20 | [Stationary and Nonstationary Equilibrium in Durable Goods Markets](05_Iskhakov_Rust_Schjerning) | Iskhakov, Rust, Schjerning
