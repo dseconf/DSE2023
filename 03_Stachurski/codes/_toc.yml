@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+options:
+  numbered: true
+parts:
+- caption: Notebooks
+  chapters:
+  - file: inventory_sdd_numpy
+  - file: inventory_sdd_numba
+  - file: inventory_sdd_jax
+  - file: inventory_sdd_jax_linop
+  - file: inventory_sdd_julia
