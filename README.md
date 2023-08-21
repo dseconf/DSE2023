@@ -95,7 +95,7 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 
 * Conference dinner will take place on August 24th, 18:30, at the [Restaurant du Theatre](https://www.restaurant-du-theatre.ch). Please fill out [this form](https://docs.google.com/spreadsheets/d/1orcnj4ibvyT-lkrby8sx7wYBufF0yOwmNaSx1DU2TYI/edit#gid=0) no later than Monday, August 21st, 2023, if you plan on attending.
 
-* Econ-Ark reception will take place on August 25th, 18:00, at the Vortex at Le Perchoir Rooftop-Bar at the Vortex building at UNIL  Please fill out [this form](https://framadate.org/qBiKwE9apYDBYDh3)
+* [Econ-Ark](https://econ-ark.org/) sponsored reception will take place on August 25th, 18:00, at the Vortex at Le Perchoir Rooftop-Bar at the Vortex building at UNIL  Please fill out [this form](https://framadate.org/qBiKwE9apYDBYDh3)
 
 
 ### Prerequisites
