@@ -88,10 +88,14 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 ### Time table of the Conference (August 24 and 25th, 2023)
 
 * The tentative schedule for the DSE2023 conference can be found [here](https://dseconf.org/dse2023conf).
+
 * Registration will be in front of Anthropole, room 1129.
+
 * Coffe breaks will be in front of Anthropole, room 1031.
+
 * Conference dinner will take place on August 24th, 18:30, at the [Restaurant du Theatre](https://www.restaurant-du-theatre.ch). Please fill out [this form](https://docs.google.com/spreadsheets/d/1orcnj4ibvyT-lkrby8sx7wYBufF0yOwmNaSx1DU2TYI/edit#gid=0) no later than Monday, August 21st, 2023, if you plan on attending.
 
+* Econ-Ark reception will take place on August 25th, 18:00, at the Vortex at Le Perchoir Rooftop-Bar at the Vortex building at UNIL  Please fill out [this form](https://framadate.org/qBiKwE9apYDBYDh3)
 
 
 ### Prerequisites
