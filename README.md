@@ -76,11 +76,12 @@ We will be using [Nuvolos Cloud](https://nuvolos.cloud) throughout the summer sc
 13   | 08.23.2023 | 13:00 - 14:20 | [Machine Learning, CCPs, and Dynamic Discrete Choice](13_Newey) | Newey
 14   | 08.23.2023 | 14:30 - 15:50 | [Deep Learning for Individual Heterogeneity](14_Misra) | Misra
 15   | 08.23.2023 | 16:00 - 17:20 | [High-performance Computing with Python for Deep Learning](15_Sarmiento) | Sarmiento
-16   | 08.26.2023 | 09:00 - 10:20 | [Deep Surrogates for Structural Estimation](16_Chen) | Chen
-17   | 08.26.2023 | 10:30 - 11:50 | [Random Matrix Theory and Machine Learning in Asset Pricing](17_Malamud) | Malamud
-18   | 08.26.2023 | 13:00 - 14:20 | [Advances in dynamic programming: theory and algorithms](18_Stachurski) | Stachurski
-19   | 08.26.2023 | 14:30 - 15:50 | [Endogenous grid point methods and machine learning](19_Iskhakov) | Iskhakov
-20   | 08.26.2023 | 16:00 - 16:30 | Wrap-up and adjourn | Rust
+16   | 08.23.2023 | 18:30 - 20:00 | [Pizza and Coding](16_Azinovic) | Azinovic
+17   | 08.26.2023 | 09:00 - 10:20 | [Deep Surrogates for Structural Estimation](17_Chen) | Chen
+18   | 08.26.2023 | 10:30 - 11:50 | [Random Matrix Theory and Machine Learning in Asset Pricing](18_Malamud) | Malamud
+19   | 08.26.2023 | 13:00 - 14:20 | [Advances in dynamic programming: theory and algorithms](19_Stachurski) | Stachurski
+20   | 08.26.2023 | 14:30 - 15:50 | [Endogenous grid point methods and machine learning](20_Iskhakov) | Iskhakov
+21   | 08.26.2023 | 16:00 - 16:30 | Wrap-up and adjourn | Rust
 
 * Updates of the tentative schedule for the DSE2023 summer school can be found [here](https://dseconf.org/dse2023course-program#).
 
