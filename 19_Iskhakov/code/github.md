@@ -1,0 +1,1 @@
+[Matlab implementation on GitHub](https://github.com/fediskhakov/dcegm)
