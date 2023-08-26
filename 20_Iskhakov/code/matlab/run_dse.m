@@ -63,7 +63,6 @@ if 0
 
 end
 
-
 %% Flat simulated consumption path using retirement model without taste shocks
 if 0
   m2=model_retirement;
