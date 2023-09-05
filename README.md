@@ -1,5 +1,7 @@
 # Econometric Society Summer School and conference in Dynamic Structural Econometrics (DSE2023)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8319164.svg)](https://doi.org/10.5281/zenodo.8319164)
+
 ## Topic: Deep Learning for Solving and Estimating Dynamic Models
 
 This public repository contains the training materials, tutorials, lecture notes, and code for the
