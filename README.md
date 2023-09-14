@@ -13,6 +13,48 @@ DSE2023 summer school and conference, held at the Department of Economics, Unive
 Materials will be added to the repository throughout the course, which will require that students either update their copy of the repository, or download/checkout a new copy of the repository.
 
 
+## Citation
+
+Please cite [Deep Learning for Solving and Estimating Dynamic Models](https://dseconf.org/dse2023)
+in your publications if it helps your research or teaching:
+
+```
+@software{simon_scheidegger_2023_8319164,
+  author       = {Scheidegger, Simon and
+                  Rust, John and 
+                  Stachurski, John and
+                  Iskhakov, Fedor and
+                  Schjerning, Bertel and
+                  Yang, Yucheng and 
+                  Kubler, Felix and
+                  Fern{\'a}ndez-Villaverde, Jes{\'u}s and
+                  Miller, Robert A. and
+                  Newey, Whitney and
+                  Misra, Sanjog and 
+                  Sarmiento, Rafael and
+                  Azinovic, Marlon and 
+                  Chen, Hui and 
+                  Malamud, Semyon and
+                  White, Matthew N. and
+                  Semenova, Vira and
+                  Zhou, Kangying and
+                  Payne, Jonathan and
+                  Chassot, Jonathan and
+                  Nuno, Galo and
+                  Pelican, Andrin and 
+                  Kase, Hanno and 
+                  Maliar, Lilia},
+  title        = {dseconf/DSE2023: DSE2023 materials},
+  month        = sep,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {DSE2023\_DOI},
+  doi          = {10.5281/zenodo.8319164},
+  url          = {https://doi.org/10.5281/zenodo.8319164}
+}
+```
+
+
 ### DSE2023 Lecturers, invited speakers, and organizers of DSE2023 (in alphabetical order)
 
 * [Marlon Azinovic](https://sites.google.com/view/marlonazinovic/home?authuser=0) (University of Pennsylvania)
