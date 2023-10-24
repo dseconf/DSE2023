@@ -12,6 +12,8 @@ DSE2023 summer school and conference, held at the Department of Economics, Unive
 
 * [Website of DSE 2023](https://dseconf.org/dse2023)
 
+* [Recordings of the DSE 2023 lectures](https://www.youtube.com/playlist?list=PLq923DHqjQwOencXVNx9VacV0Gsqt7_Y1)
+
 Materials will be added to the repository throughout the course, which will require that students either update their copy of the repository, or download/checkout a new copy of the repository.
 
 
