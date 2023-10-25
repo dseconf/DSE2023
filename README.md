@@ -7,14 +7,16 @@
 This public repository contains the training materials, tutorials, lecture notes, and code for the
 DSE2023 summer school and conference, held at the Department of Economics, University of Lausanne, Switzerland from August 21-26th, 2023.
 
-**Anyone is free to use this teaching material. In the latter case, a reference to this repository would however would be expected**
+**Anyone is free to use this teaching material. In the latter case, a reference to this repository would, however, be expected**
 
 
 * [Website of DSE 2023](https://dseconf.org/dse2023)
 
 * [Recordings of the DSE 2023 lectures](https://www.youtube.com/playlist?list=PLq923DHqjQwOencXVNx9VacV0Gsqt7_Y1)
 
-Materials will be added to the repository throughout the course, which will require that students either update their copy of the repository, or download/checkout a new copy of the repository.
+* [Recordings of the DSE 2023 conference presentations](https://www.youtube.com/playlist?list=PLq923DHqjQwM3Twe2fT-rr3ZDOoCZAJqU)
+
+Materials will be added to the repository throughout the course, which will require that students either update their copy of the repository or download/checkout a new copy of the repository.
 
 
 ## Citation
